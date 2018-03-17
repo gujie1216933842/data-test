@@ -65,7 +65,7 @@ ROBOTSTXT_OBEY = False
 # Configure item pipelines
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    'jdmobile.pipelines.SomePipeline': 300,
+    'jdmobile.pipelines.JdmobilePipeline': 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
