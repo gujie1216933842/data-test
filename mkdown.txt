@@ -1,9 +1,0 @@
-1. numpy可以高效处理数据,提供数组支持,很多模块都是依赖他.比如pandas,scipy,matplotlib都依赖他,所以这个模块是基础. 建议下载安装
-2. pandas课程后续用的最多的一个模块,主要用于数据探索和数据分析  pip安装
-3. matplotlib作图模块,解决可视化问题.     pip网络安装
-4. scipy主要进行数值计算,同时支持矩阵计算,并提供了很多高等数据处理功能,比如积分,傅里叶变换,微分方程求解等.  建议下载后安装
-5. statsmodels这个模块主要用于统计分析  pip安装
-6. gensim这个模块只要用于文本挖掘   pip安装
-7. sklearn,keras前者机器学习,后者深度学习
-
-python包下载地址  https://www.lfd.uci.edu/~gohlke/pythonlibs/#lxml
