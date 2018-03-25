@@ -12,4 +12,3 @@ from numpy import *
 import operator
 #operator模块中包含了Python的各种内置操作符,诸如逻辑、比较、计算等,
 
-
