@@ -4,6 +4,9 @@ import numpy
 a = numpy.array([0, 0, 0])
 print(a)
 
+# a1 = numpy.ndarray([[1, 4, 3], [1, 7, 5]])
+# print(a1)
+
 b = numpy.array([[1, 4, 3], [1, 7, 5]])  # 注:array()数组内的每个元素内部个数要相等
 print(b)
 
