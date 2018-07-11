@@ -44,3 +44,8 @@ print(a1)  #结果显示725天
 #创建一个数据框,字典形式创建
 data4 = pd.DataFrame({"id":[1,2,3,4,5,6],"raw_grade":['a','b','c','d','e','f',]})
 print(data4)
+
+#在上一个数据集上创建一列新的数据
+data4['grade'] = data4.raw_grade.astype('category')
+print(data4)
+print(data4.grade)
