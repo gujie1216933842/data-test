@@ -24,3 +24,5 @@ print(data2)
 
 data2.A = range(6)  #这里列表长度需要匹配,如果不匹配,会报错
 print(data2)
+
+
